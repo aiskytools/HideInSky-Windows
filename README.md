@@ -1,7 +1,7 @@
-# HideInSky-Windows
-Smart File Fusion Technology. Seamlessly hide any archive inside standard image files.
+# Hide In Sky -Windows
+                               Hide files inside images with smart file fusion technology.
 <div align="center">
-  <img src="https://raw.githubusercontent.com/[YOUR_USERNAME]/HideInSky-Windows/main/assets/Raw_App_logo.png" width="200" alt="Hide in Sky Logo">
+  <img src="https://www.aiskytools.com/blog/covers/hideinsky.png" width="200" alt="Hide in Sky Logo">
   <h1>Hide in Sky ☁️</h1>
   <p><b>Smart File Fusion Technology for Windows</b></p>
   <a href="https://github.com/aiskytools/HideInSky-Windows/releases/latest">
