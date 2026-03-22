@@ -45,8 +45,11 @@ By leveraging advanced file-fusion techniques, the output behaves exactly like a
 ## 🛠️ Installation
 
 No installation required.
-
+---
 ### ⚡ Quick Start
 
-```bash
 Download → Run → Use
+---
+## 🎥 Demo
+
+Watch here: https://www.youtube.com/watch?v=QwYHV2lsEqQ
